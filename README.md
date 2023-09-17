@@ -5,3 +5,7 @@ Supports only i32 type for now (stay tuned)
 ```bash
 cargo run
 ```
+Or
+```bash
+rustc ./src/main.rs && ./main 
+```
